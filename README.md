@@ -20,4 +20,7 @@ Esse livro foi escrito por:
 
 | Avatar | Nome | Nickname | Email |
 | ------ | ---- | -------- | ----- |
-| ![](https://gitlab.com/uploads/-/system/user/avatar/2578394/avatar.png?width=400)  | Jeferson Lima | jeferson.lima | [jeferson.lima@utfpr.edu.br](mailto:jeferson.lima@utfpr.edu.br)
+| ![](https://gitlab.com/uploads/-/system/user/avatar/9168722/avatar.png?width=400)  | João Vitor Kaszuba | JVKaszuba | [joaokaszuba@alunos.utfpr.edu.br](mailto:joaokaszuba@alunos.utfpr.edu.br)
+| ![](https://gitlab.com/uploads/-/system/user/avatar/9168722/avatar.png?width=400)  | Pedro Peruzzo | Pedro | [joaokaszuba@alunos.utfpr.edu.br](mailto:joaokaszuba@alunos.utfpr.edu.br)
+|  ![](https://gitlab.com/uploads/-/system/user/avatar/9168722/avatar.png?width=400)  | Eduardo Rocha | Rocha | [joaokaszuba@alunos.utfpr.edu.br](mailto:joaokaszuba@alunos.utfpr.edu.br)
+|  ![](https://gitlab.com/uploads/-/system/user/avatar/9168722/avatar.png?width=400)  | Pedro Yamamoto | Yamamoto | [joaokaszuba@alunos.utfpr.edu.br](mailto:joaokaszuba@alunos.utfpr.edu.br)
