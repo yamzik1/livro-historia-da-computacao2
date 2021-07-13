@@ -3,8 +3,6 @@
 
 Este livro está sendo escrito pelos alunos do Curso de Engenharia da Computação da Universidade Tecnológica do Paraná. O livro é faz parte da disciplina de Introdução a Engenharia e os alunos que participaram da edição estão [listados abaixo](#Autores).
 
-João lindo, Yamamoto feio
-
 ## Índice
 
 1. [Surgimento das Calculadoras Mecânicas](capitulos/surgimento_das_calculadoras_mecanicas.md)
