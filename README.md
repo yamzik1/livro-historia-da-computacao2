@@ -11,6 +11,7 @@ Este livro está sendo escrito pelos alunos do Curso de Engenharia da Computaç�
     - [Primeira Geração]()
 1. [Computação Móvel]()
 1. [Futuro]()
+    - [Computadores Quânticos](capitulos/computadores_quanticos.md)
 
 
 
