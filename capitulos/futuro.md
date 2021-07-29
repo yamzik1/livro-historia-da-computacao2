@@ -33,5 +33,5 @@ Mesmo com um futuro muito instavel, existem alguns pontos, para o futuro da comp
 
 ** **
 
-| [◀ Home Page](README.md)  | |[Next Page ▶ ](capitulos\computadores_quanticos.md) |
+| [◀ Home Page](README.md)  | |[Next Page ▶ ](computadores_quanticos.md) |
 
