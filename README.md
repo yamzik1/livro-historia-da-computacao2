@@ -21,7 +21,7 @@ Esse livro foi escrito por:
 
 | Avatar | Nome | Nickname | Email |
 | ------ | ---- | -------- | ----- |
-| ![](https://secure.gravatar.com/avatar/50a0881c9275b9107c0bfb59b8f9326e?s=800&d=identicon)  | Eduardo Rocha | [EduRochaa](https://gitlab.com/EduRochaa) | [eduardorocha.2017@alunos.utfpr.edu.br](mailto:eduardorocha.2017@alunos.utfpr.edu.br)
-| ![](https://gitlab.com/uploads/-/system/user/avatar/9168722/avatar.png?width=400)  | João Vitor Kaszuba | [JVKaszuba](https://gitlab.com/JVKaszuba) | [joaokaszuba@alunos.utfpr.edu.br](mailto:joaokaszuba@alunos.utfpr.edu.br)
-|  ![](https://secure.gravatar.com/avatar/cec1634990143d9be0fd4c5783112007?s=800&d=identicon)  | Pedro Henrique Capelli Peruzzo | [PedroPeruzzo](https://gitlab.com/pedroperuzzo) | [pedroperuzzo@alunos.utfpr.edu.br](mailto:pedroperuzzo@alunos.utfpr.edu.br)
-|  ![](https://gitlab.com/uploads/-/system/user/avatar/9168495/avatar.png?width=400)  | Pedro Vinicius Yamamoto Agner de Faria | [Yamzik](https://gitlab.com/yamzik) | [pedroviniciusyama@gmail.com](mailto:pedroviniciusyama@gmail.com)
+| ![](https://secure.gravatar.com/avatar/50a0881c9275b9107c0bfb59b8f9326e?s=800&d=identicon)  | Eduardo Rocha | [EduRochaa](https://github.com/EduRochaa) | [eduardorocha.2017@alunos.utfpr.edu.br](mailto:eduardorocha.2017@alunos.utfpr.edu.br)
+| ![](https://avatars.githubusercontent.com/u/73614738?v=4)  | João Vitor Kaszuba | [JVKaszuba](https://github.com/JVKaszuba) | [joaokaszuba@alunos.utfpr.edu.br](mailto:joaokaszuba@alunos.utfpr.edu.br)
+|  ![](https://secure.gravatar.com/avatar/cec1634990143d9be0fd4c5783112007?s=800&d=identicon)  | Pedro Henrique Capelli Peruzzo | [peruzzera](https://github.com/peruzzera) | [pedroperuzzo@alunos.utfpr.edu.br](mailto:pedroperuzzo@alunos.utfpr.edu.br)
+|  ![](https://gitlab.com/uploads/-/system/user/avatar/9168495/avatar.png?width=400)  | Pedro Vinicius Yamamoto Agner de Faria | [yamzik1](https://github.com/yamzik1) | [pedroviniciusyama@gmail.com](mailto:pedroviniciusyama@gmail.com)
