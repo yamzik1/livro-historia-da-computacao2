@@ -6,6 +6,8 @@ Este livro está sendo escrito pelos alunos do Curso de Engenharia da Computaç�
 ## Índice
 
 1. [O Início](capitulos/o_inicio.md)
+    - [Primeiras Interações](capitulos/primeiras_int.md)
+    - [Calculadoras Mecânicas](cal_mecanicas.md)
 1. [Primeiros Computadores]()
 1. [Evolução dos Computadores Pessoais e sua Interconexão]()
     - [Primeira Geração]()
