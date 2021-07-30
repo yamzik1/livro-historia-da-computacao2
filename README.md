@@ -5,7 +5,7 @@ Este livro está sendo escrito pelos alunos do Curso de Engenharia da Computaç�
 
 ## Índice
 
-1. [Surgimento das Calculadoras Mecânicas](capitulos/surgimento_das_calculadoras_mecanicas.md)
+1. [O Início](capitulos/o_inicio.md)
 1. [Primeiros Computadores]()
 1. [Evolução dos Computadores Pessoais e sua Interconexão]()
     - [Primeira Geração]()
