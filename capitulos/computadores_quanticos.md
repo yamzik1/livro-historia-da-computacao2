@@ -1,12 +1,13 @@
 # Computadores Quânticos
 
-<center>
+<p align ="center">
 <img src="https://www.oficinadanet.com.br/imagens/post/36721/750xNxcapa-computador-quantico-funcional-sera-criado-pela-google-ate-2029.jpg.pagespeed.ic.68fb4d2814.jpg" width="540">
+</p>
 
+<p align="center">
 <b> Figura - </b> Computador Quântico do Google <br>
 <b> Fonte:  </b> OficinadaNet
-</center>
-<p>
+</p>
 
 ## História
 <br>
@@ -33,12 +34,12 @@ Para explicar os motivos que levam os computadores quânticos a serem mais "efic
 <p align="justify">
 Para se estudar a composição dos valores que, tanto os *byts* quanto os *quibits* podem assumir, é necessáio saber um pouco de Algebra Linear. Dessa forma fica de recomentação o artigo de Portugal e Marquezino[1], pois eles explicam de maneira bem detalhada o processo para se ober uma equação de representação dos valores assumidos do *qubits*. De uma maneira mais geral, os valores que os *qubits* podem assumir está relacionado à polarização de um fóton, que, ao ser medida, colapsa para qualquer uma das diferentes polarizações, uma maneira de representar matematicamente essa probabilidade é através da notação de Dirac:
 
-<center>
+<p align ="center">
 <br>
 |Ψ⟩ = α|0⟩ + β|1⟩, com ∣α∣² + ∣β∣² = 1
 <br>
 <br>
-</center>
+</p>
 
 ## Referências
 <br>

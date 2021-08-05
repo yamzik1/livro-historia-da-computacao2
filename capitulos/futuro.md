@@ -21,7 +21,7 @@ Esses acontecimentos que Wazlawick cita, foram muito importante para a evoluçã
 Usando como exemplo as previsão que Wazlawick fez sobre o ano de 2020, atualmete o Japão possui o supercomputador mais veloz, não a China, mas agora existem chips de três nanômetros, muito menores que os dez nanômetros que ele previu. Dessa forma, fica evidente a dificuldade para definirmos o rumo para qual o futuro da computação vai seguir, uma vez que as tecnologias são muito mutaveis, as vezes conseguindo supera até nossa própria imaginação.
 
 <p align="justify">
-Mesmo com um futuro muito instavel, existem alguns pontos, para o futuro da computação, que merecem ser destacados. Dentre esses, um dos assuntos mais atuais e de grande interesse por empresas de todos os segmentos está os Computadores Quânticos. Enquanto os computadores convencionais funcinam através dos bits, os computadores quânticos trabalham com os qubits, o que possibilita eles serem mais eficientes no quesito de tempo gasto para realizar as operações. Um pouco mais sobre os Computadores Quânticos vai ser discutido no próximo subcapítulo.
+Mesmo com um futuro muito instável, existem alguns pontos, para o futuro da computação, que merecem ser destacados. Dentre esses, um dos assuntos mais atuais e de grande interesse por empresas de todos os segmentos está os Computadores Quânticos. Enquanto os computadores convencionais funcinam através dos bits, os computadores quânticos trabalham com os qubits, o que possibilita eles serem mais eficientes no quesito de tempo gasto para realizar as operações. Um pouco mais sobre os Computadores Quânticos vai ser discutido no próximo subcapítulo.
 
 <br>
 <br>
